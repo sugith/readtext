@@ -8,3 +8,4 @@ def test1():
   import pytesseract
   print pytesseract.image_to_string(Image.open('bill.jpg'))
   #test
+  #test
